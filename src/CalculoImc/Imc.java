@@ -1,9 +1,12 @@
 
 package CalculoImc;
 
-import java.text.DecimalFormat;
-
 public class Imc {
+    
+    /**
+     * 
+     * Calcula o IMC
+     */
     
     public double calcular( double peso, double altura){
         double fim = 0;
